@@ -1,0 +1,5 @@
+Blog name: SaaSBook-Binghamton-CS445
+Email: bmei3@binghamton.edu
+
+Login: admin
+Password: t84LxRi
